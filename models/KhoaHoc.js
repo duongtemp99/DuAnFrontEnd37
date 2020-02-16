@@ -1,7 +1,8 @@
-var KhoaHoc = function(){
-    this.MaKhoaHoc ='';
-    this.TenKhoaHoc ='';
-    this.HinhAnh ='';
-    this.LuotXem='';
-    this.NguoiTao ='';
+var KhoaHoc = function () {
+    this.MaKhoaHoc = '';
+    this.TenKhoaHoc = '';
+    this.HinhAnh = '';
+    this.LuotXem = '';
+    this.NguoiTao = '';
+    this.MoTa = '';
 }
